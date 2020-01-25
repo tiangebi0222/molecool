@@ -20,3 +20,9 @@ Project based on the
 This repository is currently under development. To do a developmental install, download blahblahblah...
 
 'pip install -e ./'
+
+in the repository directory
+
+This package requires the folllowing:
+    - numpy
+    -matplotlib
