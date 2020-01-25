@@ -17,7 +17,8 @@ Copyright (c) 2020, Tiange Bi
 Project based on the 
 [Computational Molecular Science Python Cookiecutter](https://github.com/molssi/cookiecutter-cms) version 1.1.
 
-This repository is currently under development. To do a developmental install, download blahblahblah...
+This repository is currently under development. To do a developmental install, download this repository
+and type
 
 'pip install -e ./'
 
@@ -25,4 +26,4 @@ in the repository directory
 
 This package requires the folllowing:
     - numpy
-    -matplotlib
+    - matplotlib
