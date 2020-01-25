@@ -11,6 +11,7 @@ A python package for analyzing and visualizing xyz file. For MolSSI Best Practic
 
 Copyright (c) 2020, Tiange Bi
 
+This is an example of a CMS python package created for the Buffalo 2020 camp
 
 #### Acknowledgements
  
